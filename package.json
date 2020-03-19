@@ -1,0 +1,26 @@
+{
+  "name": "pp-klauss",
+  "version": "1.0.0",
+  "description": "programmation pragmatique en Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srenault-efrei/pp-klauss.git"
+  },
+  "author": "Steven Renault",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srenault-efrei/pp-klauss/issues"
+  },
+  "homepage": "https://github.com/srenault-efrei/pp-klauss#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^13.9.2",
+    "ts-node": "^8.7.0",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {}
+}
