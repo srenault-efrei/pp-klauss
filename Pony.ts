@@ -19,7 +19,7 @@ export default class Pony extends Toy {
     }
 
     public ponySence(): void{
-    console.log(`${this.getType()} is singing -->
+console.log(`${this.getType()} is singing -->
     'Dou-double poney, j’fais izi money'
     'D’où tu m’connais ? Parle moi en billets violets'
     'Dou-double poney, j’fais izi money \n
