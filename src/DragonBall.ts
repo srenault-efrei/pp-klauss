@@ -27,12 +27,12 @@ export default class DragonBall extends Figurine {
     }
 
     public isMoved(): void {
-        console.log('Kamé Hamé Ha!')
+        console.log('Kamé Hamé Ha!\n')
     }
 
     public dragonBallSence(): void {
         
-console.log(`${this.getType()}is singing -->
+console.log(`${this.getType()} is singing -->
 'CHA-LA HEAD CHA-LA'
 'Nani ga okite mo kibun wa heno-heno kappa'
 CHA-LA HEAD CHA-LA

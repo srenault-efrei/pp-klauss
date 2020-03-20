@@ -2,7 +2,7 @@ import Toy from './Toy'
 
 export default class Pony extends Toy {
     private static _nb: number = 1;
-    private id: number = 0
+    private id: number
 
     constructor() {
         super()
